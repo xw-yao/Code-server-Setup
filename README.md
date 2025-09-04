@@ -183,4 +183,4 @@ In VS Code **User Settings (JSON)** (on the code-server UI: gear → Settings �
 
 ### License
 
-MIT for this guide. Use freely. If this saved you from a “renderer failed to load” rabbit hole, a ⭐ on your repo would make my day.
+MIT for this guide. Use freely.
